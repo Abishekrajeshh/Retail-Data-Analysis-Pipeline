@@ -8,7 +8,7 @@ This project demonstrates a complete, end-to-end data analytics workflow. It beg
 
 The entire workflow is designed as a sequential data pipeline, ensuring a clear and organized process from start to finish.
 
-![Project Architecture](architecture.jpg)
+![Project Architecture](architecture.png)
 
 The pipeline consists of the following stages:
 1.  **Data Download**: The retail orders dataset is downloaded from Kaggle using its official API.
